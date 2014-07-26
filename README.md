@@ -1,2 +1,3 @@
 collexercise
 ============
+Exploring collaborative exercise
